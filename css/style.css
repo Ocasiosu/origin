@@ -108,7 +108,7 @@ header .sp-menu #open.hide{
 h1 {
     font-size:24px;
     padding-bottom: 8px;
-    border-bottom:1px solid #ddd;
+    /* border-bottom:1px solid #ddd; */
 
 }
 
@@ -126,6 +126,26 @@ h1 {
 }
 .btn:hover {
     opacity:0.9;
+}
+
+
+.onayami{
+    text-align: center;
+}
+.onayami img{
+   width: 20%;
+}
+.onayami p{
+    display: inline-block;
+    text-align: left;
+    outline: 8px solid #f59a00;
+    font-size:24px;
+    line-height: 200%;
+    padding: 20px;
+    margin: 30px;
+}
+.onayami .container{
+  /*  display: flex; */
 }
 
 .features img{
