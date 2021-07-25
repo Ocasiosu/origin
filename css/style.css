@@ -143,6 +143,8 @@ h1 {
     line-height: 200%;
     padding: 20px;
     margin: 30px;
+    background: linear-gradient(transparent 50%, rgb(252, 252, 167) 50%);
+
 }
 .onayami .container{
   /*  display: flex; */
