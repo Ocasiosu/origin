@@ -136,15 +136,15 @@ h1 {
    width: 20%;
 }
 .onayami p{
-    display: inline-block;
+    display: inline-block;  
     text-align: left;
     outline: 8px solid #f59a00;
     font-size:24px;
     line-height: 200%;
     padding: 20px;
     margin: 30px;
-    background: linear-gradient(transparent 50%, rgb(252, 252, 167) 50%);
 
+    
 }
 .onayami .container{
   /*  display: flex; */
@@ -207,7 +207,8 @@ h1 {
     background: #f59a00;
     color: #fff;
     text-align: center;
-    padding: 64px 0;
+    padding: 32px 32px;
+    
 }
 
 .call-to-action h1{
@@ -219,7 +220,7 @@ h1 {
 }
 
 footer{
-    padding: 64px 0;
+    padding: 32px 0;
     background: #323135;
     color: #98969c;
     text-align: center;
