@@ -226,6 +226,10 @@ footer{
     text-align: center;
 }
 
+footer a{
+    color: #f2f2f3;
+}
+
 .pc-menu{
     display: none;
 }
